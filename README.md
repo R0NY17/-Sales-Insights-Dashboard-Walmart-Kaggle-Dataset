@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Sales Insights Dashboard – Walmart Kaggle Dataset
 
 This project analyzes Walmart's historical weekly sales data to uncover patterns, seasonal trends, and the impact of economic factors and holidays. It includes data cleaning, exploratory data analysis, predictive modeling, and an interactive Power BI dashboard.
@@ -57,7 +58,7 @@ Includes:
 - Filters for store/date
 - Holiday performance overview
 
----
-
-## 📁 Project Structure
-
+=======
+# -Sales-Insights-Dashboard-Walmart-Kaggle-Dataset
+Exploratory Data Analysis, Machine Learning Modeling, and Power BI Dashboard to uncover sales trends, holiday effects, and forecasting using Walmart's historical sales dataset from Kaggle. Built for data storytelling and business decision support
+>>>>>>> 08265b1ab86748ff2b28924e80b09ff6862ed0a4
